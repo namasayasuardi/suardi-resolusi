@@ -1,4 +1,6 @@
 Rencan konten angir
+- es6
+-framework javascrip
 buat video animasi
 membuat video film ffi
 membuat berita
