@@ -4,3 +4,4 @@ menambahkan dana resolusi
 -belajar bahasa india
 -belajar bahasa rusia
 -menambahkan belajar basket
+- menambahkan latihan karate
